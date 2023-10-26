@@ -12,15 +12,15 @@ git clone https://github.com/noorkhokhar99/Plant-Disease-Detection.git
 cd Plant-Disease-Detection
 
 ```
-- Upgrade pip with mentioned command below.
+- Upgrade pip with the mentioned command below.
 ```
 pip install --upgrade pip
 ```
-- Install requirements with mentioned command below.
+- Install requirements with the mentioned command below.
 ```
 pip install -r requirements.txt
 ```
-- Run the code with mentioned command below.
+- Run the code with the mentioned command below.
 
 streamlit run app.py 
  
@@ -31,7 +31,7 @@ streamlit run app.py
 </p>
 
 
-download model from here: https://drive.google.com/file/d/1Ls4ao5xHiMIasqzGDgI7fAFxVOjzvgOp/view?usp=share_link
+download the model from here: https://drive.google.com/drive/folders/1siPKe3pmQdBkYxD42_8-qlL19Qh1XSHV?usp=sharing
 
 
 
