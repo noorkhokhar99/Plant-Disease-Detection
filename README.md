@@ -30,7 +30,7 @@ streamlit run app.py
 
 ### Watch the Complete Step by Step Explanation click image
 
-[![Watch the video](https://github.com/noorkhokhar99/Plant-Disease-Detection/blob/main/Pyresearch.png)](https://www.youtube.com/@Pyresearch/videos)
+[![Watch the video](https://github.com/noorkhokhar99/Plant-Disease-Detection/blob/main/Pyresearch.png)](https://www.youtube.com/watch?v=jJmyfiyNv04)
 
 
 download the model from here: https://drive.google.com/drive/folders/1siPKe3pmQdBkYxD42_8-qlL19Qh1XSHV?usp=sharing
