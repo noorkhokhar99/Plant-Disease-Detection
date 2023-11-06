@@ -26,9 +26,11 @@ streamlit run app.py
  
 
 
-<p align="center">
-<img src="https://github.com/noorkhokhar99/Plant-Disease-Detection/blob/main/Pyresearch.png">
-</p>
+
+
+### Watch the Complete Step by Step Explanation click image
+
+[![Watch the video](https://github.com/noorkhokhar99/Plant-Disease-Detection/blob/main/Pyresearch.png)](https://www.youtube.com/@Pyresearch/videos)
 
 
 download the model from here: https://drive.google.com/drive/folders/1siPKe3pmQdBkYxD42_8-qlL19Qh1XSHV?usp=sharing
